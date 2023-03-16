@@ -1,0 +1,10 @@
+# websockets
+faust-streaming
+fastapi
+uvicorn
+kafka-Python
+# confluent-kafka
+# elasticsearch[async]
+# asyncio
+# aiohttp
+# prometheus-client
